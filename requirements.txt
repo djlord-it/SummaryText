@@ -1,0 +1,5 @@
+pipnltk==3.6.7
+numpy==1.21.5
+scikit-learn==1.0.2
+PyQt5==5.15.6
+spacy==3.4.4
