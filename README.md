@@ -63,7 +63,7 @@ SpaCy adds an advanced layer to the tool:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/djlord-it/SummaryTextAi.git
+   git clone https://github.com/djlord-it/SummaryText.git
    cd SummaryTextAi
    #install the packages
    pip install -r requirements.txt
